@@ -285,3 +285,7 @@ body {
 .footer__social-icon {
     width: 100%;
 }
+
+.footer__menu-item_active .footer__menu-link {
+    text-decoration: none;
+}
